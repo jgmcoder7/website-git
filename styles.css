@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+main{
+    width: 100vw;
+    height: 80vh;
+    background-color: antiquewhite;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
